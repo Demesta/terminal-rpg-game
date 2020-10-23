@@ -4,7 +4,7 @@
 - Demesta
 
 # About
-This project is a university assignment for the course "Introduction to OOP" where were called to create a simple terminal RPG game.
+This project is a university assignment for the course "Introduction to OOP" where we were called to create a simple terminal RPG game.
 
 
 # Compile and Run
